@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Devinette</string>
+    <string name="Deviner"> le nombre caché</string>
+    <string name="DefaultTime">00</string>
+    <string name="choisirNiveau">Choisir un niveau:</string>
+    <string name="debutant">Débutant</string>
+    <string name="expert">Expert</string>
+    <string name="nouvelle_partie">Nouvelle partie</string>
+    <string name="placeholder">Tapez un nombre</string>
+    <string name="valider">Valider</string>
+    <string name="score">Score :</string>
+    <string name="app_title">Devinette</string>
+    <string name="hist">Historique</string>
+    <string name="Looser">Looser</string>
+    <string name="tapezNom">tapez votre nom</string>
+    <string name="bravo">Bravo !</string>
+    <string name="finishedOn">Vous avez terminé dans :</string>
+    <string name="Tentatives">Tentatives(s) :</string>
+    <string name="top_10_score">Top 10 Score</string>
+    <string name="scoreHint">Kahlaoui 100</string>
+    <string name="afficher_les_scores"><![CDATA[Afficher Les Scores >>]]></string>
+</resources>
